@@ -18,7 +18,7 @@ export const heroData = {
 // ABOUT DATA
 export const aboutData = {
   img: 'profile.jpg',
-  paragraphOne: `Hello, my name is Leon and I am a full stack developer, I am from Buenos Aires. I have an attitude to always learn and solve problems of anything not only about code, all the time I'm looking for new things to learn but programming steals my heart.`,
+  paragraphOne: `Hello, my name is Leon and I am a full stack developer, I have an attitude of always giving my best and solve problems of anything not only about code, all the time I'm looking for new things to learn but programming steals my heart.`,
   paragraphTwo: `Currently with other fellow developers we are finishing the final project in Henry which is a platform for online medical services, we do it following agile methodologies such as SCRUM, with sprints of one week and presenting to a Product Owner.`,
   paragraphThree:
     'I am familiar with a variety of languages and technologies, including: JavaScript (ES6), HTML, CSS, CSS modules, CSS frameworks, React.JS, Redux, Node.JS, React components libraries, Express.JS, Postman, AJAX, PostgreSQL, Sequelize ORM, Webpack, Jest, Mocha, Visual Studio Code, Git, Github, Supabase, Firebase, C, C#, Bash, RESTful API, SCRUM.',
