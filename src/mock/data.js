@@ -22,7 +22,7 @@ export const aboutData = {
   paragraphTwo: `Currently with other fellow developers we are finishing the final project in Henry which is a platform for online medical services, we do it following agile methodologies such as SCRUM, with sprints of one week and presenting to a Product Owner.`,
   paragraphThree:
     'I am familiar with a variety of languages and technologies, including: JavaScript (ES6), HTML, CSS, CSS modules, CSS frameworks, React.JS, Redux, Node.JS, React components libraries, Express.JS, Postman, AJAX, PostgreSQL, Sequelize ORM, Webpack, Jest, Mocha, Visual Studio Code, Git, Github, Supabase, Firebase, C, C#, Bash, RESTful API, SCRUM.',
-  resume: 'https://drive.google.com/file/d/1E-tn5wib7g_s107rprQ9rMFWW6WxvT30/view?usp=sharing', // if no resume, the button will not show up
+  resume: 'https://drive.google.com/file/d/1KjdLKVoPiJt4PqYFirwpmcagqP9O3GTR/view?usp=sharing', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
